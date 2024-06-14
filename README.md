@@ -1,4 +1,4 @@
-# Análise de Dataset da Anatel
+# Análise de Reclamações das Operadoras de Tefefonial na Anatel
 
 ![Licença](https://img.shields.io/github/license/Rafaelcvo/dataset_anatel_pos)
 ![Último Commit](https://img.shields.io/github/last-commit/Rafaelcvo/dataset_anatel_pos)
